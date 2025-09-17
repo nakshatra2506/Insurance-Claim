@@ -39,20 +39,16 @@ The system is implemented with **Streamlit** for the user interface and Python-b
 ## 🚀 Installation & Setup
 
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/insurance-claims-optimization.git
    cd insurance-claims-optimization
 Create and activate a virtual environment:
 
-bash
-Copy code
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 source .venv/bin/activate   # Mac/Linux
 Install dependencies:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Generate sample dataset (optional):
 
