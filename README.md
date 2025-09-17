@@ -46,24 +46,17 @@ Create and activate a virtual environment:
 python -m venv .venv
 .venv\Scripts\activate   # Windows
 source .venv/bin/activate   # Mac/Linux
-Install dependencies:
-
-
-pip install -r requirements.txt
+2. Install dependencies:
+   pip install -r requirements.txt
 Generate sample dataset (optional):
 
-bash
-Copy code
 python generate_sample_data.py
 Train the model:
 
-bash
-Copy code
+
 python train.py
 Run the Streamlit app:
 
-bash
-Copy code
 streamlit run app.py
 📊 Dataset
 The dataset includes:
