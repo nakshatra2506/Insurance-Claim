@@ -42,7 +42,7 @@ The system is implemented with **Streamlit** for the user interface and Python-b
    git clone https://github.com/your-username/insurance-claims-optimization.git
    cd insurance-claims-optimization
    
-2. Create and activate a virtual environment:
+3. Create and activate a virtual environment:
    python -m venv .venv
    
   .venv\Scripts\activate   # Windows
