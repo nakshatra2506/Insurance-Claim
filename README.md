@@ -44,9 +44,12 @@ The system is implemented with **Streamlit** for the user interface and Python-b
    
 2. Create and activate a virtual environment:
    python -m venv .venv
+   
   .venv\Scripts\activate   # Windows
+  
    source .venv/bin/activate   # Mac/Linux
-3. Install dependencies:
+   
+4. Install dependencies:
    pip install -r requirements.txt
    Generate sample dataset (optional):
 
