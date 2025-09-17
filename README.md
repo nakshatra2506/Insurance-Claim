@@ -87,7 +87,3 @@ Deploy the app on Heroku/Render/Cloud.
 Support real-time data input from forms instead of CSV upload.
 
 
-👩‍💻 Author
-Developed by Sri Nakshatra N
-B.Tech Artificial Intelligence and Data Science
-RMK Engineering College
